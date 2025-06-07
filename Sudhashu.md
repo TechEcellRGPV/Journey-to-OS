@@ -1,15 +1,15 @@
 # 💼 Sudhanshu Tiwari
 
-**Blockchain Developer | MERN Stack Web Developer**  
+**Blockchain Developer | Full Stack Web Developer**  
 📍 Bhopal, India  
 📧 sudhanshutiwari9836@gmail.com  
-🌐 [GitHub](https://github.com/TiwariSudhanshu) • [LinkedIn](https://www.linkedin.com/in/sudhanshu__tiwari_) • [X](https://x.com/sudhanshu4eth)  
+🌐 [GitHub](https://github.com/TiwariSudhanshu) • [LinkedIn](https://www.linkedin.com/in/sudhanshu--tiwari-/) • [X](https://x.com/sudhanshu4eth)  
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate **full-stack web developer** and **blockchain developer** currently pursuing my B.Tech in Computer Science from RGPV. With hands-on experience in building scalable MERN applications and decentralized blockchain solutions using **Ethereum** and **Solana**, I strive to solve real-world problems with code. I'm also actively involved in college clubs like **E-Cell** and **Code4All**, contributing to events, hackathons, and community projects.
+I’m a passionate **full-stack web developer** and **blockchain developer** currently pursuing my B.Tech in Computer Science from RGPV. With hands-on experience in building scalable MERN applications and decentralized blockchain solutions using **Ethereum** and **Solana**, I strive to solve real-world problems with code. I'm also actively involved in college clubs like **E-Cell** and Chapter lead of web3 community BhopalDAO contributing to events, hackathons, and community projects.
 
 ---
 
@@ -66,7 +66,7 @@ A web app simulating stock trading with virtual money
 
 **Bachelor of Technology (B.Tech)** – Computer Science  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal  
-_2022 – Present_
+_2023 – Present_
 
 ---
 
